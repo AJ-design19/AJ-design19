@@ -36,11 +36,19 @@
 
 ---
 
+## 🌐 Community
+- 🎤 **Organizer, Google Developer Groups (GDG)**
+- 🗓️ Events and workshops organized: 12
+- 👥 Students reached: 900+
+- 💡 Topics covered: Cloud, AI/ML, Web Dev, DSA, BlockChain, CyberSecurity
+
+---
+
 ## 📜 Certifications
 | Certificate | Issuer | Proof |
 |---|---|---|
-| AWS Certified Solutions Architect - Associate | Amazon Web Services | [View]([YOUR_AWS_CERT_LINK](https://drive.google.com/file/d/1coh1hopn6cgqs-GwIJOPbBvN9e1nTbxK/view?usp=drive_link)) |
-| KPMG Black Belt | KPMG | [View]([YOUR_LINK](https://drive.google.com/file/d/13zOQNbG3qabQPTkjXdQ9zrcyH3rmEq9n/view?usp=drive_link)) |
+| AWS Certified Solutions Architect - Associate | Amazon Web Services | [View](YOUR_AWS_CERT_LINK) |
+| KPMG Black Belt | KPMG | [View](YOUR_LINK) |
 | KPMG Green Belt | KPMG | [View](YOUR_LINK) |
 
 ---
@@ -56,7 +64,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [EDGE_IDS](https://github.com/AJ-design19/EDGE_IDS) | Real-time network intrusion detection with an ML model and a live dashboard (team project with [Anshd14](https://github.com/Anshd14)) | Python, FastAPI, TensorFlow Lite, Next.js |
-| [BlockTrace](YOUR_LINK) | Blockchain based Transaction bank security System  | DL, ML, Web3, Python |
+| [PROJECT_2](YOUR_LINK) | One-line description | Tech used |
 
 ---
 
@@ -95,6 +103,18 @@
 
 ## 📝 Latest LinkedIn Posts
 - [See my latest posts on LinkedIn](https://www.linkedin.com/in/akshita-jain-007pj/recent-activity/all/)
+
+---
+
+## 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+## 😄 Dev Joke
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+</p>
 
 ---
 
